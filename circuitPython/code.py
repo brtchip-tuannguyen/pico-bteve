@@ -5,6 +5,11 @@ import bteve as eve
 gd = eve.Brt_PicoEve_Module()
 gd.init()
 
+aio_secrets={
+    'aio_username':'tuan_nguyen_brtchip',
+    'aio_key':'aio_jJYQ56mFz4DL'+''+'KLs4IY0hNMWIuSeI'
+}
+
 
 random.seed(6)
 rr = random.randrange
