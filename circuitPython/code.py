@@ -7,7 +7,7 @@ gd.init()
 
 aio_secrets={
     'aio_username':'tuan_nguyen_brtchip',
-    'aio_key':'aio_jJYQ56mFz4DL'+''+'KLs4IY0hNMWIuSeI'
+    'aio_key':'aio_JPVI82dpB'+''+'BNy4MiqDUn7YEZeCIky'
 }
 
 
